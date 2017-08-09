@@ -99,3 +99,18 @@ ENV/
 
 # mypy
 .mypy_cache/
+/.idea
+/dataset/input/*.PDF
+/dataset/output/csv/*.csv
+/dataset/output/seg/*.txt
+/dataset/output/txt/example/*.txt
+/segment/data/lda
+/segment/statistic/all_all/*.csv
+/segment/statistic/all_mda/*.csv
+/segment/statistic/mda_mda
+/segment/worddict/extension/all_all
+/segment/worddict/extension/all_mda
+/segment/worddict/extension/mda_mda
+/segment/worddict/row
+/similarity/model
+/segment/worddict
