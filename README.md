@@ -6,4 +6,4 @@
 
 词库构建模型如下：
 
-![词库构建模型](http://ww1.sinaimg.cn/large/005LZfaWgy1fieq0ad57wj31kw0pxjup&690)
+![词库构建模型](http://cgpwq.img48.wal8.com/img48/573160_20170810165836/150235556932.png)
