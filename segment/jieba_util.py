@@ -119,7 +119,7 @@ def test_file_segment():
                 src_file = os.path.join(sub_src_dir, filename)
 
                 i += 1
-                if i > 0:
+                if i > 14458:
                     # print src_file
                 # print src_file
                 # print stop_words
